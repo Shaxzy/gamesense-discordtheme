@@ -2,6 +2,7 @@
 BetterDiscord custom theme
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 
 ## How to use
 - Clone this repository
