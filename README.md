@@ -1,4 +1,4 @@
-# gamesense-discordtheme
+# Gamesense.pub discord theme
 BetterDiscord custom theme
 
 ## How to use
