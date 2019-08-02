@@ -1,7 +1,7 @@
 # Gamesense.pub discord theme
-[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
-
 BetterDiscord custom theme
+
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 
 ## How to use
 - Clone this repository
