@@ -1,3 +1,4 @@
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 # Gamesense.pub discord theme
 BetterDiscord custom theme
 
