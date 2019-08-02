@@ -1,3 +1,5 @@
+//META{"name":"GameSense Discord Theme","description":"A theme made for the gamesense community.","author":"Shaxzy","version":"0.1"}*//{}
+
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 :root{
     --title-gradient:linear-gradient(to right,#37b1da 0,#c948cd 50%,#cce335 100%);
