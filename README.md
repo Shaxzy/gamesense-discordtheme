@@ -8,7 +8,6 @@ BetterDiscord custom theme
 ## How to use
 - Clone this repository
 - Unzip it anywhere on your computer
-- Rename gamesensetheme.css to gamesense.theme.css
 - Put the file in betterdiscord theme folder
 - Activate it, profit!
 
