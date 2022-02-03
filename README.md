@@ -1,4 +1,4 @@
-# Gamesense.pub discord theme
+# Gamesense.pub discord theme (outdated)
 BetterDiscord custom theme
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
